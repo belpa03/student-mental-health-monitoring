@@ -30,7 +30,7 @@ The app allows students to fill out a self-assessment form and instantly visuali
 ---
 
 ## 🏆 Achievement
-> 🥇 *Finalist Project* — Rekayasa Teknologi Cerdas (RTC) 2025, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS)
+> 🥇 *Finalist Project* — Rekayasa Teknologi Cerdas (RTC) 2024, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
 
