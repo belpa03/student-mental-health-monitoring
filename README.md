@@ -35,6 +35,7 @@ The app allows students to fill out a self-assessment form and instantly visuali
 ---
 
 ## 📸 Preview
-_(Add a screenshot of your app here)_
+Here’s the interface of the Shiny App for student mental health monitoring (DASS-42):
+![Dashboard Preview](Shiny_App_Dass42.png)
 
 Example:
