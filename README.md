@@ -29,13 +29,12 @@ The app allows students to fill out a self-assessment form and instantly visuali
 
 ---
 
-## 🏆 Achievement
-> 🥇 *Finalist Project* — Rekayasa Teknologi Cerdas (RTC) 2024, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS)
-![Sertificate](sertifikat%20finalis%20RTC.png)
-
----
-
 ## 📸 Preview
 Here’s the interface of the Shiny App for student mental health monitoring (DASS-42):
 ![Dashboard Preview](Shiny%20App_Dass%2042.png)
 
+---
+
+## 🏆 Achievement
+> 🥇 *Finalist Project* — Rekayasa Teknologi Cerdas (RTC) 2024, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS)
+![Sertificate](sertifikat%20finalis%20RTC.png)
