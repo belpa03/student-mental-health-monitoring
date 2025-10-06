@@ -2,8 +2,7 @@
 
 # 🧠 Shiny App for Student Mental Health Monitoring
 
-This project is an interactive **R Shiny application** designed to monitor **student mental health** using the **DASS-42 (Depression, Anxiety, and Stress Scale)** framework.  
-The app allows students to fill out a self-assessment form and instantly visualize their mental health status based on standardized scoring.
+Developed a mental health monitoring tool using R Shiny App and the DASS-42 instrument to visualize and analyze students’ depression, anxiety, and stress levels interactively.
 
 ---
 
